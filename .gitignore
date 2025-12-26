@@ -1,0 +1,26 @@
+# 数据文件
+data/*.csv
+data/*.xlsx
+
+# 模型文件
+my_model/*.pth
+my_model/*.pkl
+my_model/*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
